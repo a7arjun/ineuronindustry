@@ -1,1 +1,3 @@
-## this is git tutorial aj
+## this is the amazinggit tutorial aj
+## we will learn git
+## these changes are by developer 2
